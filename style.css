@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+body{
+    background-color: 
+    #FAF5E5;
+}
+
+.logo{
+    margin-top: 10px;
+}
+
+.b{
+    border: 1px solid black;
+    width: 349px;
+    margin-left: -50px;
+    margin-top: 300px;
+}
+
+.mm{
+    margin-left: -44px; 
+     width: 400px;
+    text-align: center  ;
+    margin-top: 100px;
+}
